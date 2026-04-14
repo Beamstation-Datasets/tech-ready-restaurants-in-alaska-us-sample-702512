@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in Alaska, US",
+  "export_job_id": "2e65071c-6cdf-4f35-a6c8-980fc599f378",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 702512,
+  "location_name": "Alaska",
+  "location_type": "state",
+  "repo_name": "tech-ready-restaurants-in-alaska-us-sample-702512",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/702512/beamstation_702512_restaurants-us-ak_SAMPLE_DIST.csv",
+  "sample_pct": 50.0,
+  "sample_records": 1,
+  "sample_sha256": "9f60b1655cdf6d3048f70349f239993e5c3a0a95fec1dca57ce827375dd42d37",
+  "sample_size_bytes": 20289,
+  "total_records": 2,
+  "updated_at": "2026-04-08T03:43:53.087895+00:00"
+}
