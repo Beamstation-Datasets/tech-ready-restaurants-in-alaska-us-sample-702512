@@ -9,9 +9,9 @@
 | Dataset ID | `702512` |
 | Location | Alaska |
 | Category | Restaurants |
-| Full dataset size | 2 records |
-| Free sample size | 1 records (50.0%) |
-| Last export | 2026-04-08T03:43:53.087895+00:00 |
+| Full dataset size | 1 records |
+| Free sample size | 1 records (100.0%) |
+| Last export | 2026-04-15T08:30:32.493287+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-alaska-us-sample-702512/releases/download/sample-latest/beamstation_702512_restaurants-us-ak_SAMPLE_DIST.csv) |
 
 ## What is in this sample
