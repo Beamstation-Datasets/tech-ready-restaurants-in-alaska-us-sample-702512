@@ -1,12 +1,12 @@
 {
-  "export_job_id": "886c3163-b4d8-4983-bcb8-abc197ab2d5e",
+  "export_job_id": "1784f1ef-0c51-49d9-88ec-f455dc2194d9",
   "id_short": 702512,
-  "published_at": "2026-04-23T07:04:28Z",
+  "published_at": "2026-04-29T19:30:16Z",
   "repo_name": "tech-ready-restaurants-in-alaska-us-sample-702512",
   "sample_asset_name": "beamstation_702512_restaurants-us-ak_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/702512/beamstation_702512_restaurants-us-ak_SAMPLE_DIST.csv",
   "sample_records": 1,
-  "sample_sha256": "e1c225bc2ee374528ee2dbd94985b1793e73d8895d3175497ccae9efb656605c",
-  "sample_size_bytes": 20299,
-  "total_records": 2
+  "sample_sha256": "6b727f52bfb076c3c736289c26e1acc5633e3754811b78ac513fac8bf8268641",
+  "sample_size_bytes": 20074,
+  "total_records": 8
 }
